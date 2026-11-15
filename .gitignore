@@ -1,0 +1,6 @@
+# Ignora scripts locais do Windows
+*.bat
+
+# Ignora pastas de configuração do sistema operacional
+.DS_Store
+Thumbs.db
