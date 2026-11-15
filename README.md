@@ -1,5 +1,7 @@
 # Sistema de Placar Eletrônico Poliesportivo via Wi-Fi 🏀🏐⚽
 
+🔗 **Acesse a simulação interativa da interface Web aqui:** [https://andreykaua90-blip.github.io/placar-eletronico-poliesportivo/](https://andreykaua90-blip.github.io/placar-eletronico-poliesportivo/)
+
 Um projeto de hardware e software para um placar eletrônico poliesportivo de grande porte, controlado remotamente por meio de uma interface Web responsiva via Wi-Fi.
 
 ![Placar Frontal](assets/placar_frontal.jpg)
