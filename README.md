@@ -33,6 +33,7 @@ Cada dígito do placar utiliza uma placa de 7 segmentos da marca Microzon (DIGIT
 *   **Chaveamento (Low-Side):** O acionamento é feito chaveando o GND via transistores NPN (BC250 adaptado em emissor comum) acionados pelos sinais lógicos de 5V dos Arduinos através de resistores de 330 Ω na base. 
 
 ![Esquemático do Transistor](assets/esquema_transistor.jpg)
+
 *(Diagrama do chaveamento de GND - Low-Side)*
 
 ## 💻 Estrutura do Firmware (`/firmware`)
